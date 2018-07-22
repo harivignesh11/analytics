@@ -10,7 +10,7 @@ matrix(marks,ncol=6)
 (myarray= array(1:23, dim=c(4,3,2)))
 apply(myarray,1,sum)
 ?array
-#nominal data are data like gender#
+#nominal data are data like gender #
 #ordinal data are rankings and ratings#
 
 (rollno= c('MBA',1:60,sep='-'))
