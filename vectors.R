@@ -6,7 +6,7 @@ x[5]
 x2
 x4=c('m','f','m','f','m','f','m','f','m','f','m','f','m','f')
 
-x5= 1:100 #1:100 pushes numbers from 1-100 to x5#
+x5= 1:100 # 1:100 pushes numbers from 1-100 to x5#
 
 (x6=seq(100,1,by=-1)) #Print directly without declaring the variable
 
